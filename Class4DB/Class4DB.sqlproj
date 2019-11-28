@@ -64,7 +64,7 @@
   <ItemGroup>
     <Build Include="Student.sql" />
     <Build Include="Class.sql" />
-    <Build Include="Student_ID.sql" />
+    <Build Include="Student_Class.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Class4DB.refactorlog" />
